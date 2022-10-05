@@ -14,3 +14,4 @@ $ ./fdf myfile.fdf
 ```
 myFile.fdf contains a series of numbers separated by spaces, which correspond to the elevation of each point on the map.
 Examples are available in the test_maps folder.
+The mlx_linux is provide by school 42, it is a small graphics library in C language.
